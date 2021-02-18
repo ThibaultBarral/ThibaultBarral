@@ -1,3 +1,4 @@
+![Cover](https://github.com/ThibaultBarral/ThibaultBarral/blob/main/img/banniere%20perso.png)
 ### Hi there 👋
 
 <!--
