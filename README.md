@@ -1,7 +1,6 @@
 ![Cover](https://github.com/ThibaultBarral/ThibaultBarral/blob/main/img/banniere%20perso.png)
-### Hi there 👋
-
 <!--
+
 **ThibaultBarral/ThibaultBarral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
